@@ -1,5 +1,5 @@
 # weifang-metro-plan
-潍坊轨道交通规划草案 Weifang Rail Transit/Weifang Metro Planning Draft（非官方）：1/2/3/4/8号线 + S1/S2市域快线，含站点数据与换乘设计。Unofficial, for discussion only.
+潍坊轨道交通规划草案 Weifang Rail Transit/Weifang Metro Planning Draft（非官方）：1/2/3/4/8号线 + S1/S2/S3市域快线，含站点数据与换乘设计。Unofficial, for discussion only.
 # 潍坊轨道交通规划草案
 
 # 潍坊轨道交通规划草案
@@ -32,7 +32,7 @@
 | **4号线** | 潘里 | 福田 | 20 | 29.1 km | 东西向卧龙街—动力路走廊 |
 | **8号线** | 北里庄 | 潍坊北站 | 9+ | — | 北部横向联络线（远期环线北段） |
 | **S1号线（滨海线）** | 潍坊北站 | 渤海之眼 | 6 | 38 km | 向海市域快线 |
-| **S2号线（机场线）** | 北里庄 | 稻田机场 | 3 | 13.9 km | 机场快线（可并入2号线v2） |
+| **S2号线（机场线）** | 北里庄 | 稻田机场 | 3 | 13.9 km | 机场快线（可并入2号线v2）未来也可能延伸至寿光 |
 | **S3号线（安丘线）** | 坊茨小镇 | 安丘（远期） | 1+ | — | 向南市域预留 |
 
 > 注：
