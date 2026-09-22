@@ -109,7 +109,7 @@
       "name": "潍坊轨道交通4号线",
       "color": "#8C44B3",
       "type": "urban",
-      "length_km": 29.1,
+      "length_km": 31.1,
       "stations": [
         { "name": "潘里", "location": "潍坊安通职业培训学校南", "transfer": [] },
         { "name": "潍城开发区", "location": "北宫街殷大路路口", "transfer": [] },
@@ -130,7 +130,8 @@
         { "name": "清池", "location": "健康街动力路路口", "transfer": [] },
         { "name": "浞河", "location": "歌尔学校北", "transfer": [] },
         { "name": "张营·保税区", "location": "桃园街高三路路口", "transfer": [] },
-        { "name": "福田", "location": "梨园街科航路路口", "transfer": [] }
+        { "name": "福田", "location": "梨园街科航路路口", "transfer": [] },
+        { "name": "赵庄", "location": "樱前街朝晖路路口", "transfer": [] }
       ]
     }
   ]
